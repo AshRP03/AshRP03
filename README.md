@@ -1,4 +1,4 @@
-# Ash R. P. — Software Engineer for Intelligent Physical Systems
+# Ashwin (Ash) R. Parameswaran - Software Engineer for Intelligent Physical Systems
 
 I build software at the intersection of C++, embedded systems, scientific computing, computer vision, and machine learning for physical and autonomous systems.
 
@@ -30,19 +30,19 @@ My work focuses on software for real-world systems: signal and spectral analysis
 
 ### Applied software and engineering
 
-- Zeta Physics Engine — C++ physics engine project emphasizing simulation, performance, and systems-level modeling
-- USSF Capstone — spacecraft intrusion detection system; focuses on anomaly detection, system design, and applied engineering
-- GECKO — private geolocation and intent-masking research project using image-based inference and pattern analysis
-- WHISPER — private weather-intelligence project connecting perception, retrieval, and multimodal reasoning
+- Zeta Physics Engine - C++ physics engine project emphasizing simulation, performance, and accurate modeling
+- USSF Capstone - spacecraft intrusion detection system; system design and detection in both networked and hardware data
+- GECKO - private geolocation and intent-masking research project using image-based inference and pattern analysis
+- WHISPER - private weather-intelligence project connecting perception, retrieval, and multimodal reasoning
 
 ### Additional experience
 
-- CSCE 633 ICD Classifier — machine learning and classification work using classical modeling approaches
-- TAMU Solar EKF GNSS Localization — localization and estimation work for autonomous/solar vehicle systems
-- FSAE Telemetry — vehicle telemetry and systems instrumentation experience
-- Teledrive Demo — autonomous driving framework and systems prototyping
-- Seam Tracking CV — computer vision for tracking and sensing in physical systems
-- Post-Approval Prediction — predictive modeling and data-driven analysis for engagement prediction
+- CSCE 633 ICD Classifier — machine learning and classification work using classical modeling approaches for ICD medical diagnosing
+- TAMU Solar EKF GNSS Localization — localization and GPS estimation for solar vehicle telemetry
+- FSAE Telemetry — vehicle telemetry and systems instrumentation
+- Teledrive Demo — autonomous driving framework and prototyping in python
+- Seam Tracking CV — computer vision for TAMU Baseball R&D; tracking seams and tumble in pitching for improved player performance
+- Post-Approval Prediction — predictive modeling and data-driven analysis for marketing engagement predictions
 - 502-Vitality — agile software development and team-based application work in a real-world project setting
 
 ## Career alignment
@@ -70,7 +70,3 @@ Open to collaborations, internships, and opportunities in software engineering, 
 - LinkedIn: add your link
 - Email: add your email
 - Portfolio / résumé: add your link
-
----
-
-This profile is intentionally positioned to represent a software engineer who combines systems thinking, C++ and embedded software experience, and applied machine learning for real-world physical systems.
