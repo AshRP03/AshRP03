@@ -7,8 +7,8 @@ My work focuses on software for real-world systems: signal and spectral analysis
 ## Current focus
 
 - Software and algorithm development for low-observability
-- C++ software for performance-critical, systems-oriented applications
-- Sensor-driven analysis, modeling, and estimation
+- C++ software for performance-critical, high-speed applications
+- Sensor-driven modeling and estimation
 - Multimodal ML for perception, reasoning, and decision support
 - Applied intelligence for aerospace, defense, autonomous vehicles, and robotics
 
@@ -67,6 +67,6 @@ My goal is to grow from systems and algorithm engineering into high-impact roles
 Open to collaborations, internships, and opportunities in software engineering, ML systems, aerospace, autonomy, and physical intelligence.
 
 - GitHub: https://github.com/AshRP03
-- LinkedIn: add your link
-- Email: add your email
-- Portfolio / résumé: add your link
+- LinkedIn: www.linkedin.com/in/ashwin-parameswaran-888488256
+- Email: ashwinrp03gmail.com
+- Personal Website & Portfolio: https://ashrp03.github.io
