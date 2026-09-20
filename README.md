@@ -1,72 +1,57 @@
-# Ashwin (Ash) R. Parameswaran - Software Engineer for Intelligent Physical Systems
+# Ashwin (Ash) R. Parameswaran
 
-I build software at the intersection of C++, embedded systems, scientific computing, computer vision, and machine learning for physical and autonomous systems.
+Software engineer building intelligent physical systems at the intersection of C++, embedded systems, estimation, simulation, and machine learning.
 
-My work focuses on software for real-world systems: signal and spectral analysis, materials-informed engineering, autonomy, telemetry, localization, and multimodal intelligence. I am especially interested in aerospace, defense, robotics, and advanced autonomous platforms where software directly interfaces with physical constraints, sensors, and decision-making.
+I work on software for sensing, modeling, and decision-making in real-world systems — including multimodal perception, sensor fusion, physics-based algorithms, and experimental learning systems.
 
 ## Current focus
 
-- Software and algorithm development for low-observability
-- C++ software for performance-critical, high-speed applications
-- Sensor-driven modeling and estimation
-- Multimodal ML for perception, reasoning, and decision support
-- Applied intelligence for aerospace, defense, autonomous vehicles, and robotics
-
-## Core strengths
-
-- C++ and embedded/systems-oriented software development
-- Python for research, prototyping, simulation, and data pipelines
-- Machine learning and applied AI across multimodal, vision, language, and classification workflows
-- Computer vision, localization, telemetry, and sensor-driven analysis
-- Scientific and engineering software for physical systems
-- Building software that connects modeling, inference, and real-world constraints
+- Multimodal intelligence and video understanding
+- Sensor fusion, localization, and state estimation
+- C++ and high-performance scientific computing
+- Physics-based simulation and systems modeling
+- ML for perception, forecasting, and decision support
+- Real-time onboard and autonomous software
 
 ## Featured work
 
-### Research and creative systems
+### Multimodal perception and intelligence
 
-- SPECIES - experimental computational system exploring emergent perception-action loops, evolutionary adaptation, and sparse graph intelligence
-- SCOPE - private research project and conference-quality technical work focused on physics, sensing, and systems-oriented analysis
+- SCOPE — multimodal temporal grounding and video-based search
+- SPECIES — experimental Hebbian learning and emergent perception-action behavior
 
-### Applied software and engineering
+### Systems and physical modeling
 
-- Zeta Physics Engine - C++ physics engine project emphasizing simulation, performance, and accurate modeling
-- USSF Capstone - spacecraft intrusion detection system; system design and detection in both networked and hardware data
-- GECKO - private geolocation and intent-masking research project using image-based inference and pattern analysis
-- WHISPER - private weather-intelligence project connecting perception, retrieval, and multimodal reasoning
+- Zeta Physics Engine — performance-focused C++ simulation and numerical modeling
+- TAMU EKF GNSS Solar Car — vehicle localization, sensor fusion, and telemetry
+- Custom systems and algorithm projects in C++/Python for embedded, scientific, and robotics contexts
 
-### Additional experience
+### Classical and applied ML
 
-- CSCE 633 ICD Classifier - machine learning and classification work using classical modeling approaches for ICD medical diagnosing
-- TAMU Solar EKF GNSS Localization - localization and GPS estimation for solar vehicle telemetry
-- FSAE Telemetry - vehicle telemetry and systems instrumentation
-- Teledrive Demo - autonomous driving framework and prototyping in python
-- Seam Tracking CV - computer vision for TAMU Baseball R&D; tracking seams and tumble in pitching for improved player performance
-- Post-Approval Prediction - predictive modeling and data-driven analysis for marketing engagement predictions
-- 502-Vitality - agile software development and team-based application work in a real-world project setting
+- CSCE 633 ICD Classifier — text classification for clinical-document coding using weak supervision and transformer-based modeling
+- Additional work in computer vision, segmentation, and applied ML
 
-## Career alignment
+## Technical strengths
+
+- C++ / C for performance-critical and embedded systems
+- Python for research, prototyping, and data pipelines
+- Sensor fusion and estimation (EKF, GNSS, telemetry, localization)
+- Computer vision, multimodal reasoning, and temporal perception
+- Physics-informed and model-based algorithms
+- Research-oriented ML experimentation and reproducible evaluation
+
+## Career direction
 
 I am targeting roles in:
 
-- Aerospace and defense software engineering
+- Aerospace and defense software
 - Autonomous systems and robotics
-- Embedded and real-time systems
-- Sensor fusion, localization, and perception
-- ML systems for physical environments
-- Advanced engineering teams building software for high-performance physical platforms
+- Embedded and real-time software
+- Perception, localization, and sensor-fusion systems
+- Machine learning for physical environments
 
-## Philosophy
+## Notes
 
-I care about building software that is not only intelligent, but grounded in the constraints of the physical world: reliability, observability, performance, and systems-level reasoning.
+Some projects are private, collaborative, or subject to disclosure restrictions. Public work intentionally focuses on technically relevant and permissioned material.
 
-My goal is to grow from systems and algorithm engineering into high-impact roles at companies building the next generation of aerospace, defense, autonomy, and intelligent physical systems.
-
-## Contact
-
-Open to collaborations, internships, and opportunities in software engineering, ML systems, aerospace, autonomy, and physical intelligence.
-
-- GitHub: https://github.com/AshRP03
-- LinkedIn: www.linkedin.com/in/ashwin-parameswaran-888488256
-- Email: ashwinrp03gmail.com
-- Personal Website & Portfolio: https://ashrp03.github.io
+Open to internships, research collaborations, and opportunities in software engineering, autonomy, aerospace, and intelligent physical systems.
