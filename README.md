@@ -6,7 +6,7 @@ My work focuses on software for real-world systems: signal and spectral analysis
 
 ## Current focus
 
-- Low-observable systems software and algorithm development
+- Software and algorithm development for low-observability
 - C++ software for performance-critical, systems-oriented applications
 - Sensor-driven analysis, modeling, and estimation
 - Multimodal ML for perception, reasoning, and decision support
