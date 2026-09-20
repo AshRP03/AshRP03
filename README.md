@@ -25,8 +25,8 @@ My work focuses on software for real-world systems: signal and spectral analysis
 
 ### Research and creative systems
 
-- SPECIES — experimental computational system exploring emergent perception-action loops, evolutionary adaptation, and sparse graph intelligence
-- SCOPE — private research project and conference-quality technical work focused on physics, sensing, and systems-oriented analysis
+- SPECIES - experimental computational system exploring emergent perception-action loops, evolutionary adaptation, and sparse graph intelligence
+- SCOPE - private research project and conference-quality technical work focused on physics, sensing, and systems-oriented analysis
 
 ### Applied software and engineering
 
@@ -37,13 +37,13 @@ My work focuses on software for real-world systems: signal and spectral analysis
 
 ### Additional experience
 
-- CSCE 633 ICD Classifier — machine learning and classification work using classical modeling approaches for ICD medical diagnosing
-- TAMU Solar EKF GNSS Localization — localization and GPS estimation for solar vehicle telemetry
-- FSAE Telemetry — vehicle telemetry and systems instrumentation
-- Teledrive Demo — autonomous driving framework and prototyping in python
-- Seam Tracking CV — computer vision for TAMU Baseball R&D; tracking seams and tumble in pitching for improved player performance
-- Post-Approval Prediction — predictive modeling and data-driven analysis for marketing engagement predictions
-- 502-Vitality — agile software development and team-based application work in a real-world project setting
+- CSCE 633 ICD Classifier - machine learning and classification work using classical modeling approaches for ICD medical diagnosing
+- TAMU Solar EKF GNSS Localization - localization and GPS estimation for solar vehicle telemetry
+- FSAE Telemetry - vehicle telemetry and systems instrumentation
+- Teledrive Demo - autonomous driving framework and prototyping in python
+- Seam Tracking CV - computer vision for TAMU Baseball R&D; tracking seams and tumble in pitching for improved player performance
+- Post-Approval Prediction - predictive modeling and data-driven analysis for marketing engagement predictions
+- 502-Vitality - agile software development and team-based application work in a real-world project setting
 
 ## Career alignment
 
